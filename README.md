@@ -1,5 +1,6 @@
 # Lexmodo Variant Builder
 This README file explains how to build product variants automatically as select/radio depending on your design 
+![Screencast from 06-19-2023 05_08_02 PM](https://github.com/mostafaelhussainy/Numinix-Variants-Builder/assets/105276328/7c922857-811d-41a5-a730-383f6028e925)
 
 ---
 ## Structure (inside product/index.plush.html)
